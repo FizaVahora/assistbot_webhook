@@ -97,6 +97,7 @@ gensim @ file:///C:/ci_311/gensim_1677743037820/work
 geomet==0.2.1.post1
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 greenlet @ file:///C:/ci_311/greenlet_1676436788118/work
+gunicorn==23.0.0
 h5py @ file:///C:/b/abs_17fav01gwy/croot/h5py_1691589733413/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///C:/b/abs_fa7afixkhc/croot/holoviews_1693378101313/work
@@ -352,6 +353,7 @@ ujson @ file:///C:/ci_311/ujson_1676434714224/work
 Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
 urllib3 @ file:///C:/b/abs_889_loyqv4/croot/urllib3_1686163174463/work
 w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
+waitress==3.0.2
 watchdog @ file:///C:/ci_311/watchdog_1676457923624/work
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
